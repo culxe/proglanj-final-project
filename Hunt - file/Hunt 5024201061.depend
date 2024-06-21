@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1625577061 source:f:\indi\kuliah\program c\program c\hunt 5024201061\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+	<math.h>
+	<stdlib.h>
+	<mmsystem.h>
+
