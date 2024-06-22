@@ -6,4 +6,4 @@ make a simple game with C/C++ using OOP Methods for final project Pemograman Lan
 ![screenshot](sneakpeek2.jpg)
 
 ### Reference design
-denimalz and DAY6 super band
+denimalz and DAY6 super band!
